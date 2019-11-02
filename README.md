@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This Repostory a create to finish week one assigment
+This Repostory was created to work on the week one assigment
